@@ -9,7 +9,7 @@ export default function App() {
     {id: 104, title: "Business", price: 28.7, picture:"https://images.booksense.com/images/886/475/9781465475886.jpg"},
     {id: 105, title: "Poetry", price: 34.2, picture:"https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/9/7/9780241566237.jpg"},
     {id: 106, title: "Economics", price: 34.5, picture:"https://m.media-amazon.com/images/I/91RFsY--usL._UF1000,1000_QL80_.jpg"},
-    {id: 107, title: "Chemistry", price: 34.7, picture:"https://storage.googleapis.com/circlesoft/document/photos/003/727/595/large_temp_img.jpg20250706-1-n0dadc?1751772039"},
+    {id: 107, title: "Chemistry", price: 34.7, picture:"https://s.eslite.com/upload/product/2682144052008/o/2682144052008-01.jpg"},
     {id: 108, title: "Biology", price: 20.9, picture:"https://hivoltagerecords.com/cdn/shop/files/new-book-the-biology-book-big-ideas-simply-explained-hardcover-31004415918135.jpg?v=1720471813"}
   ])
 
