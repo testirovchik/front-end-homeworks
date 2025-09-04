@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Tiko",
+      "age": 42
+    },
+    {
+      "id": "102",
+      "name": "Anna",
+      "age": 35
+    },
+    {
+      "id": "103",
+      "name": "David",
+      "age": 29
+    },
+    {
+      "id": "104",
+      "name": "Sona",
+      "age": 41
+    },
+    {
+      "id": "105",
+      "name": "Aram",
+      "age": 50
+    },
+    {
+      "id": "106",
+      "name": "Lilit",
+      "age": 27
+    },
+    {
+      "id": "107",
+      "name": "Gor",
+      "age": 38
+    }
+  ]
+}
