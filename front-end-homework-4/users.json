@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Elon",
+      "lastname": "Musk",
+      "salary": 20000
+    },
+    {
+      "id": "102",
+      "name": "Nicola",
+      "lastname": "Tesla",
+      "salary": 30000
+    },
+    {
+      "id": "103",
+      "name": "Albert",
+      "lastname": "Einstein",
+      "salary": 45000
+    },
+    {
+      "id": "104",
+      "name": "Robert",
+      "lastname": "Oppenheimer",
+      "salary": 25000
+    },
+    {
+      "id": "29c8",
+      "name": "Alan",
+      "lastname": "Turing",
+      "salary": 9000
+    }
+  ]
+}
