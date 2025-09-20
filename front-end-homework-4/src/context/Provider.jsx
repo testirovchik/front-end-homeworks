@@ -9,7 +9,6 @@ const initialState = { users: [] };
 
 export const ToDoProvider = ({children}) => {
     const [ state, dispatch ] = useReducer(reducer, initialState)
-
     useEffect(() => {
     axios.get("http://localhost:4002/users")
         .then(res => {

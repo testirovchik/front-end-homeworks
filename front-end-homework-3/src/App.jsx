@@ -9,6 +9,7 @@ export default function App() {
   useEffect(() => {
       axios.get("http://localhost:4002/users")
       .then(response => {
+          console.log(response)
           setUsers(response.data);
       })
   }, [])

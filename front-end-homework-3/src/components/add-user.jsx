@@ -10,6 +10,7 @@ export const AddUser = ({onAdd}) => {
     }
 
     const handleSumbit = event => {
+        console.log(event);
         event.preventDefault()
         if(!user.age || !user.name) {
             setError("Please enter the inputs ")
@@ -20,6 +21,7 @@ export const AddUser = ({onAdd}) => {
         else {
             axios.post("http://localhost:4002/users",user)
             .then(response => {
+                console.log(response.data);
             onAdd(response.data)
             setError("")
             })
