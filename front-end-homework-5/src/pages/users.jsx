@@ -11,7 +11,7 @@ export const Users = () => {
     return <div style={{display:"flex",justifyContent:"space-between"}}>
         <div>
             {
-                users.map(user => <div key={user.id}>
+                users.map(user => <div key={user.id} style={{border: "1px solid black"}}>
                     <p>{user.name}</p>
                     <p>{user.age} years old</p>
                     <Link to={"/users/" + user.id}>details</Link>
